@@ -9,10 +9,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-7951&show_icons=true&theme=tokyonight)](https://github.com/R-7951/R-7951) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) \
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-7951)](https://github.com/R-7951/R-795)
 [![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) \
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-7951&layout=compact)]()
 
 
 
