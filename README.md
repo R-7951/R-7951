@@ -12,7 +12,7 @@
 [![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) \
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r7951)](https://github.com/R-7951/R-7951)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r7951&theme=tokyonight)](https://github.com/R-7951/R-7951)
 
 
 
