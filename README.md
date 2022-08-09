@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R-7951
-- 👀 I’m interested in Android and Linux .
+- 👀 I’m interested in Android, Linux and Java.
 - 🌱 I’m currently learning Flutter , Kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me R-7951@zebra.com
