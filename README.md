@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter , Kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me R-7951@zebra.com
-- 📫 How to reach me ... [here](https://github.com/cptmacp)
+- 📫 How to reach me [alt](https://github.com/cptmacp)
 - :robot: Try GitHub CoPilot [here](https://copilot.github.com/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-7951&show_icons=true&theme=tokyonight)](https://github.com/R-7951/R-7951) \
