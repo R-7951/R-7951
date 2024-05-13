@@ -14,7 +14,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r7951&theme=tokyonight)](https://github.com/R-7951/R-7951)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!---
