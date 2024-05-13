@@ -6,10 +6,11 @@
 - 📫 How to reach me [alt](https://github.com/cptmacp) ( Personal ) 
 - :robot: Try GitHub CoPilot [here](https://copilot.github.com/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-7951&show_icons=true&theme=tokyonight)](https://github.com/R-7951/R-7951) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) \
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-7951&show_icons=true&theme=tokyonight)](https://github.com/R-7951/R-7951) 
 
-[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) 
+
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R-7951&theme=tokyonight)](https://github.com/R-7951/R-7951) 
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r7951&theme=tokyonight)](https://github.com/R-7951/R-7951)
