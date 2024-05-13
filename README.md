@@ -15,6 +15,15 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r7951&theme=tokyonight)](https://github.com/R-7951/R-7951)
 
 <!--START_SECTION:waka-->
+
+```txt
+C++          4 hrs 35 mins   ███████████████████░░░░░░   75.70 %
+Java         43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Python       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+SSH Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+```
+
 <!--END_SECTION:waka-->
 
 
