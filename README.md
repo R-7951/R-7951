@@ -18,9 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2022 - To: 12 May 2024
+From: 02 February 2022 - To: 13 May 2024
 
-Total Time: 651 hrs 10 mins
+Total Time: 651 hrs 12 mins
 
 Java                                   539 hrs 16 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.75 %
 Properties                             47 hrs 36 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.30 %
