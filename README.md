@@ -30,6 +30,12 @@
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r7951&theme=dark)](https://github.com/R-7951/R-7951)
 
 
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
+
 <!--START_SECTION:waka-->
 
 ```txt
