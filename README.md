@@ -14,7 +14,6 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Gihub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-7951&show_icons=true&theme=dark)](https://github.com/R-7951/R-7951) 
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=R-7951&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/R-7951/R-7951) 
 
